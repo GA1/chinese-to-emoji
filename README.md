@@ -1,4 +1,8 @@
-# chinese-to-emoji
+# A Chinese character to emoji cheat sheet
+
+To understand the motivation see:
+https://medium.com/@kamilnguyenvan/f0b95ae2116e
+
 
 Character | pinyin | emoji | English meaning
 --- | --- | --- | ---
