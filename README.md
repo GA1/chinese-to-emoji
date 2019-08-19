@@ -37,3 +37,4 @@ Character | pinyin | emoji | English meaning
 滑冰  |  huábīng    |⛸️    | ice-skate
 猴子  |  hóuzi      |🐒    | monkey
 派对  |  pàiduì     |🎉    | party
+怀疑  |  huáiyí     |🤨    | to doubt
