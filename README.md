@@ -39,3 +39,4 @@ Character | pinyin | emoji | English meaning
 派对  |  pàiduì     |🎉    | party
 怀疑  |  huáiyí     |🤨    | to doubt
 鬼脸  |  guǐliǎn    |😜    | wry face, to grimace
+雄鹰  |  xióng yīng |🦅    | eagle
