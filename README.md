@@ -66,6 +66,8 @@ Character | pinyin | emoji | English meaning
 棕榈树 |  zōnglǘshù   |🌴   | palm tree
 吻     |  wěn        |💋    | kiss
 鼓掌   |  gǔzhǎng    |👏    | aplaud
+奶酪️   |  nǎilào     |🧀    | cheese
+葡萄   |  pútáo      |🍇    | grapes
 
 
      
