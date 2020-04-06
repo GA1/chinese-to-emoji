@@ -28,14 +28,14 @@ Character | pinyin | emoji | English meaning
 足球   |  zúqiú      | ⚽   | football
 网球   |  wǎngqiú    | 🎾   | tennis
 棒球   |  bàngqiú    | ⚾   | baseball
-叮     |  dīng       |      | to jingle
+叮     |  dīng       | 🔔   | to jingle
 滑冰   |  huábīng    | ⛸   | ice-skate
 猴子   |  hóuzi      | 🐒   | monkey
 派对   |  pàiduì     | 🎉   | party
 雄鹰   |  xióng yīng | 🦅   | eagle
 吉他   |  jítā       | 🎸   | guitar
 钢琴   |  gāngqín    | 🎹   | piano
-鼓     |  gǔ         |      | drum
+鼓     |  gǔ         |🥁    | drum
 喇叭   |  lǎbā       | 🎺   | trumpet
 萨克斯风|  sàkèsīfēng |🎷    | saxophone
 熊猫   |   xióngmāo  |🐼    | panda
