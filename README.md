@@ -68,6 +68,10 @@ Character | pinyin | emoji | English meaning
 鼓掌   |  gǔzhǎng    |👏    | aplaud
 奶酪️   |  nǎilào     |🧀    | cheese
 葡萄   |  pútáo      |🍇    | grapes
+胡萝卜 |  húluóbo    |🥕    | carrot
+蘑菇   |  mógū       |🍄    | mushroom
+香蕉   |  xiāngjiāo  |🍌    | banana
+
 
 
      
